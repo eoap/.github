@@ -1,4 +1,3 @@
-Hello
+### Mastering Earth Observation Application Packaging with CWL
 
-(https://google.com)[https://google.com]
-https://google.com
+Available at: https://terradue.github.io/app-package-training-bids23/
