@@ -22,4 +22,6 @@ Repository available at: https://github.com/eoap/quickwin
 
 This tutorial is designed for developers, scientists, and Earth observation enthusiasts who want to enhance their skills in creating and sharing EO Application Packages.
 
-Available at: https://terradue.github.io/app-package-training-bids23/
+Documentation available at: https://eoap.github.io/mastering-app-package
+
+Repository available at: https://github.com/eoap/mastering-app-package
