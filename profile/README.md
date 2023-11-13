@@ -25,3 +25,16 @@ This tutorial is designed for developers, scientists, and Earth observation enth
 Documentation available at: https://eoap.github.io/mastering-app-package
 
 Repository available at: https://github.com/eoap/mastering-app-package
+
+### Open and reproducible EO Application Package
+
+[![stability-wip](https://img.shields.io/badge/stability-wip-lightgrey.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#work-in-progress)
+
+Many cloud-based solutions for workflows in EO are available to users today, but only few support reproducibility or comply with FAIR data principles. 
+
+This short tutorial demonstrates how EO Application Packages meet these requirements.
+
+Documentation available at: https://eoap.github.io/open-reproducible-app-package
+
+Repository available at: https://github.com/eoap/open-reproducible-app-package
+
