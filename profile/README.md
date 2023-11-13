@@ -12,6 +12,8 @@ This set of repositories aim to:
 
 This tutorial is designed for developers, scientists, and Earth observation enthusiasts who want to get started with the EO Application Package.
 
+Available at: https://eoap.github.io/quickwin
+
 ### Mastering Earth Observation Application Packaging with CWL
 
 [![stability-wip](https://img.shields.io/badge/stability-wip-lightgrey.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#work-in-progress)
