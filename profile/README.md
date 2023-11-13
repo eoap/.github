@@ -3,7 +3,7 @@
 This set of repositories aim to:
 
 * help developers create Earth Observation (EO) applications using the Common Workflow Language (CWL)
-* provides an overview of the CWL, its key concepts
+* provide an overview of the CWL, its key concepts
 * how to build a CWL-based EO application using practical examples in field guides
 
 ### Quickwin - A simple Application Package for getting started
