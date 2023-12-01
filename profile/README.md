@@ -16,6 +16,14 @@ Documentation available at: https://eoap.github.io/quickwin
 
 Repository available at: https://github.com/eoap/quickwin 
 
+### Quickwin - An Application Package with inline Python code
+
+[![stability-wip](https://img.shields.io/badge/stability-wip-lightgrey.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#work-in-progress)
+
+This tutorial is designed for developers, scientists, and Earth observation enthusiasts who want to get started with the EO Application Package.
+
+Repository available at: https://github.com/eoap/quickwin-inline-code
+
 ### Mastering Earth Observation Application Packaging with CWL
 
 [![stability-wip](https://img.shields.io/badge/stability-wip-lightgrey.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#work-in-progress)
