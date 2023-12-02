@@ -1,6 +1,6 @@
 # Resources and Guides for Earth Observation Application Packages
 
-This set of repositories aim to:
+This set of repositories aims to:
 
 * help developers create Earth Observation (EO) applications using the Common Workflow Language (CWL)
 * provide an overview of the CWL, its key concepts
