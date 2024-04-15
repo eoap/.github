@@ -90,7 +90,7 @@ User guide available at: https://www.commonwl.org/user_guide/
 
 ### SpatioTemporal Asset Catalogs
 
-* **STAC Item **is the core atomic unit, representing a single spatiotemporal asset as a GeoJSON feature plus datetime and links: https://github.com/radiantearth/stac-spec/blob/master/item-spec/item-spec.md
+* **STAC Item** is the core atomic unit, representing a single spatiotemporal asset as a GeoJSON feature plus datetime and links: https://github.com/radiantearth/stac-spec/blob/master/item-spec/item-spec.md
 * **STAC Catalog** is a simple, flexible JSON file of links that provides a structure to organize and browse STAC Items. A series of best practices helps make recommendations for creating real world STAC Catalogs: https://github.com/radiantearth/stac-spec/blob/master/catalog-spec/catalog-spec.md
 * **STAC Collection** is an extension of the STAC Catalog with additional information such as the extents, license, keywords, providers, etc that describe STAC Items that fall within the Collection: https://github.com/radiantearth/stac-spec/blob/master/collection-spec/collection-spec.md
 * **STAC API** provides a RESTful endpoint that enables search of STAC Items, specified in OpenAPI, following OGC's WFS 3: https://github.com/radiantearth/stac-api-spec
