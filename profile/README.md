@@ -67,6 +67,16 @@ Documentation available at: https://eoap.github.io/open-reproducible-app-package
 
 Repository available at: https://github.com/eoap/open-reproducible-app-package
 
+### Inference with the EO Application Package
+
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+
+This tutorial addresses the packaging of the inference using an ONNX model. 
+
+Documentation available at: https://eoap.github.io/inference-eoap
+
+Repository available at: https://github.com/eoap/inference-eoap
+
 ## References
 
 ### Common Workflow Language
