@@ -31,8 +31,9 @@ Repository available at: https://github.com/eoap/stac-eoap
 ### Quickwin - A simple Application Package for getting started
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![stability-mature](https://img.shields.io/badge/stability-mature-008000.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#mature)
 
-This tutorial is designed for developers, scientists, and Earth observation enthusiasts who want to get started with the EO Application Package.
+This tutorial is designed for developers, scientists, and EO enthusiasts who want to get started with the EO Application Package.
 
 Documentation available at: https://eoap.github.io/quickwin
 
