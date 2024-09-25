@@ -19,7 +19,8 @@ Repository available at: https://github.com/eoap/cwl-eoap
 
 ### Understanding STAC for input/output data modelling in Earth Observation Applications
 
-[![stability-wip](https://img.shields.io/badge/stability-wip-lightgrey.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#work-in-progress)
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![stability-mature](https://img.shields.io/badge/stability-mature-008000.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#mature)
 
 Documentation and notebooks for understanding the role of STAC as input/output data manifests in Earth Observation applications and a hands-on with real-life scenarios
 
