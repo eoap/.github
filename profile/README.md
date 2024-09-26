@@ -53,6 +53,7 @@ This tutorial is designed for developers, scientists, and EO enthusiasts who wan
 
 This tutorial is designed for developers, scientists, and Earth observation enthusiasts who want to get started with the EO Application Package.
 
+* Documentation available at: https://eoap.github.io/quickwin-inline-code/
 * Repository available at: https://github.com/eoap/quickwin-inline-code
 
 ### Open and reproducible EO Application Package
