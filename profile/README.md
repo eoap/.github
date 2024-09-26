@@ -68,6 +68,7 @@ This short tutorial demonstrates how EO Application Packages meet these requirem
 ### Inference with the EO Application Package
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![stability-mature](https://img.shields.io/badge/stability-mature-008000.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#mature)
 
 This tutorial addresses the packaging of the inference using an ONNX model. 
 
