@@ -13,9 +13,8 @@ This set of repositories aims to:
 
 This documentation provides an introduction to CWL as a solution for the portability of EO applications
 
-Documentation available at: https://eoap.github.io/cwl-eoap/
-
-Repository available at: https://github.com/eoap/cwl-eoap
+* Documentation available at: https://eoap.github.io/cwl-eoap/
+* Repository available at: https://github.com/eoap/cwl-eoap
 
 ### Understanding STAC for input/output data modelling in Earth Observation Applications
 
@@ -24,9 +23,8 @@ Repository available at: https://github.com/eoap/cwl-eoap
 
 Documentation and notebooks for understanding the role of STAC as input/output data manifests in Earth Observation applications and a hands-on with real-life scenarios
 
-Documentation available at: https://eoap.github.io/stac-eoap/
-
-Repository available at: https://github.com/eoap/stac-eoap
+* Documentation available at: https://eoap.github.io/stac-eoap/
+* Repository available at: https://github.com/eoap/stac-eoap
 
 ### Quickwin - A simple Application Package for getting started
 
@@ -35,20 +33,18 @@ Repository available at: https://github.com/eoap/stac-eoap
 
 This tutorial is designed for developers, scientists, and EO enthusiasts who want to get started with the EO Application Package.
 
-Documentation available at: https://eoap.github.io/quickwin
-
-Repository available at: https://github.com/eoap/quickwin 
+* Documentation available at: https://eoap.github.io/quickwin
+* Repository available at: https://github.com/eoap/quickwin 
 
 ### Mastering Earth Observation Application Packaging with CWL
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![stability-mature](https://img.shields.io/badge/stability-mature-008000.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#mature)
 
+This tutorial is designed for developers, scientists, and EO enthusiasts who want to enhance their skills in creating and sharing EO Application Packages.
 
-This tutorial is designed for developers, scientists, and Earth observation enthusiasts who want to enhance their skills in creating and sharing EO Application Packages.
-
-Documentation available at: https://eoap.github.io/mastering-app-package
-
-Repository available at: https://github.com/eoap/mastering-app-package
+* Documentation available at: https://eoap.github.io/mastering-app-package
+* Repository available at: https://github.com/eoap/mastering-app-package
 
 ### Quickwin - An Application Package with inline Python code
 
@@ -56,7 +52,7 @@ Repository available at: https://github.com/eoap/mastering-app-package
 
 This tutorial is designed for developers, scientists, and Earth observation enthusiasts who want to get started with the EO Application Package.
 
-Repository available at: https://github.com/eoap/quickwin-inline-code
+* Repository available at: https://github.com/eoap/quickwin-inline-code
 
 ### Open and reproducible EO Application Package
 
@@ -66,9 +62,8 @@ Many cloud-based solutions for workflows in EO are available to users today, but
 
 This short tutorial demonstrates how EO Application Packages meet these requirements.
 
-Documentation available at: https://eoap.github.io/open-reproducible-app-package
-
-Repository available at: https://github.com/eoap/open-reproducible-app-package
+* Documentation available at: https://eoap.github.io/open-reproducible-app-package
+* Repository available at: https://github.com/eoap/open-reproducible-app-package
 
 ### Inference with the EO Application Package
 
@@ -76,17 +71,16 @@ Repository available at: https://github.com/eoap/open-reproducible-app-package
 
 This tutorial addresses the packaging of the inference using an ONNX model. 
 
-Documentation available at: https://eoap.github.io/inference-eoap
-
-Repository available at: https://github.com/eoap/inference-eoap
+* Documentation available at: https://eoap.github.io/inference-eoap
+* Repository available at: https://github.com/eoap/inference-eoap
 
 ## References
 
-### Common Workflow Language
+### Common Workflow Language (CWL)
 
-Common Workflow Language User Guide, a guide to introduce you to writing workflows using the Common Workflow Language (CWL) open standards
+CWL User Guide, a guide to introduce you to writing workflows using the CWL open standards
 
-User guide available at: https://www.commonwl.org/user_guide/
+* User guide available at: https://www.commonwl.org/user_guide/
 
 **Specification and standards**
 
