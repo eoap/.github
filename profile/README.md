@@ -58,6 +58,7 @@ This tutorial is designed for developers, scientists, and Earth observation enth
 
 ### Open and reproducible EO Application Package
 
+[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 [![stability-wip](https://img.shields.io/badge/stability-wip-lightgrey.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#work-in-progress)
 
 Many cloud-based solutions for workflows in EO are available to users today, but only few support reproducibility or comply with FAIR data principles. 
