@@ -1,8 +1,10 @@
 # Resources and Guides for Earth Observation Application Packages
 
-This set of repositories aims to:
+This project includes several repositories designed to provide guidance and training material for developing and executing Earth Observation (EO) Application Packages in compliance with OGC standards. 
 
-* help developers create Earth Observation (EO) applications using the Common Workflow Language (CWL)
+The repositories aims to:
+
+* help developers create EO applications using the Common Workflow Language (CWL)
 * provide an overview of the CWL, its key concepts
 * how to build a CWL-based EO application using practical examples in field guides
 
@@ -11,7 +13,7 @@ This set of repositories aims to:
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![stability-mature](https://img.shields.io/badge/stability-mature-008000.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#mature)
 
-This documentation provides an introduction to CWL as a solution for the portability of EO applications
+This documentation provides an introduction to CWL as a solution for the portability of EO applications.
 
 * Documentation available at: https://eoap.github.io/cwl-eoap/
 * Repository available at: https://github.com/eoap/cwl-eoap
@@ -21,7 +23,7 @@ This documentation provides an introduction to CWL as a solution for the portabi
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![stability-mature](https://img.shields.io/badge/stability-mature-008000.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#mature)
 
-Documentation and notebooks for understanding the role of STAC as input/output data manifests in Earth Observation applications and a hands-on with real-life scenarios
+Documentation and notebooks for understanding the role of STAC as input/output data manifests in EO applications and a hands-on with real-life scenarios.
 
 * Documentation available at: https://eoap.github.io/stac-eoap/
 * Repository available at: https://github.com/eoap/stac-eoap
