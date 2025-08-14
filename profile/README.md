@@ -132,5 +132,14 @@ CWL User Guide, a guide to introduce you to writing workflows using the CWL open
 
 ## Tools
 
+### CWL runners
+
 * **cwltool** the reference reference implementation of the Common Workflow Language standards: https://github.com/common-workflow-language/cwltool
 * **calrissian** a CWL runner for Kubernetes: https://duke-gcb.github.io/calrissian/
+
+### eoap-cwlwrap [NEW]
+
+EOAP CWL Wrap is a command-line utility that composes a CWL Workflow from a series of Workflow/CommandLineTool steps
+
+* Documentation available at: https://eoepca.github.io/eoap-cwlwrap/
+* Repository available at: https://github.com/EOEPCA/eoap-cwlwrap
