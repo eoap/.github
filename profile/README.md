@@ -143,3 +143,21 @@ EOAP CWL Wrap is a command-line utility that composes a CWL Workflow from a seri
 
 * Documentation available at: https://eoepca.github.io/eoap-cwlwrap/
 * Repository available at: https://github.com/EOEPCA/eoap-cwlwrap
+
+### cwl2ogc [NEW]
+
+CWL Worflow inputs/outputs to OGC API Processes inputs/outputs
+
+* Documentation available at: https://eoap.github.io/cwl2ogc/
+* Repository available at: https://github.com/eoap/cwl2ogc
+
+### CWL custom type schemas for EOAP [NEW]
+
+CWL custom type schemas for EOAP
+
+* Documentation available at: https://eoap.github.io/schemas
+* Repository available at: https://github.com/eoap/schemas
+
+
+
+
