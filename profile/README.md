@@ -8,6 +8,18 @@ The repositories aims to:
 * provide an overview of the CWL, its key concepts
 * how to build a CWL-based EO application using practical examples in field guides
 
+### Application package patterns based on data stage-in and stage-out behaviors commonly used in EO workflows [New]
+
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![stability-mature](https://img.shields.io/badge/stability-mature-008000.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#mature)
+
+Application packages expose several patterns in terms of data access and result publishing.
+
+This repository contains CWL descriptions implementing these patterns to support verification and validation activities
+
+* Documentation available at: https://eoap.github.io/application-package-patterns/
+* Repository available at: https://github.com/eoap/application-package-patterns/
+
 ### Application Package and CWL as a solution for Earth Observation portability
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
