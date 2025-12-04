@@ -70,6 +70,17 @@ This tutorial is designed for developers, scientists, and Earth observation enth
 * Documentation available at: https://eoap.github.io/quickwin-inline-code/
 * Repository available at: https://github.com/eoap/quickwin-inline-code
 
+### Testing Framework - CWL test suites and input data for validating EO Application Packages
+
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![stability-mature](https://img.shields.io/badge/stability-mature-008000.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#mature)
+
+Guidance for EOAP developers on how to write, organise, and execute tests for EO Application Packages using the CWL testing framework (cwltest).
+
+* Documentation available at: https://eoap.github.io/testing-framework/
+* Repository available at: https://github.com/eoap/testing-framework
+
+
 ### OGC API Processes with ZOO Project
 
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
